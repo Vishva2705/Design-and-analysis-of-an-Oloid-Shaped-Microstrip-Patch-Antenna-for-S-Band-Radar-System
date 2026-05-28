@@ -29,22 +29,22 @@ The proposed antenna improves antenna performance using a modified oloid-shaped 
 # 🖼️ Project Preview
 
 ## Antenna Geometry
-![Antenna Geometry](Images/cst_simulation_model.jpg)
+![Antenna Geometry](cst_simulation_model.jpg)
 
 ## CST Simulation Model
-![CST Simulation](Images/antenna_geometry.png)
+![CST Simulation](antenna_geometry.png)
 
 ## S11 Result
-![S11 Result](Images/s11_result.png)
+![S11 Result](s11_result.png)
 
 ## VSWR Result
-![VSWR Result](Images/vswr_result.png)
+![VSWR Result](vswr_result.png)
 
 ## Surface Current Distribution
-![Surface Current](Images/surface_current.png)
+![Surface Current](surface_current.png)
 
 ## Radiation Pattern
-![Radiation Pattern](Images/radiation_pattern.jpg)
+![Radiation Pattern](radiation_pattern.jpg)
 
 ---
 
