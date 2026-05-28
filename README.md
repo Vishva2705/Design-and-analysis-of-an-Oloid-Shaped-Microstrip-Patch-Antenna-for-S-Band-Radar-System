@@ -248,6 +248,6 @@ Our research paper titled :
 has been successfully published in the *International Journal of Creative Research Thoughts (IJCRT)*.
 
 🔗 Journal Paper Link :  
-[Add Your Journal Paper Link Here]
+[http://www.ijcrt.org/papers/IJCRT2605051.pdf]
 
 
