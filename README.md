@@ -238,3 +238,16 @@ This project is licensed under the MIT License.
 # ✅ Conclusion
 
 The proposed Oloid-Shaped Microstrip Patch Antenna demonstrates a compact and efficient antenna design for S-band radar applications. The antenna achieves good impedance matching and stable radiation performance using a modified oloid geometry. The project highlights the importance of geometry-based optimization in modern antenna system design.
+
+# 📄 Journal Paper
+
+Our research paper titled :
+
+**“Design and Analysis of an Oloid-Shaped Microstrip Patch Antenna for S-Band Radar Systems”**
+
+has been successfully published in the *International Journal of Creative Research Thoughts (IJCRT)*.
+
+🔗 Journal Paper Link :  
+[Add Your Journal Paper Link Here]
+
+
