@@ -231,7 +231,7 @@ I would like to express my sincere gratitude to our mentor Mrs. N. Srividhya for
 
 # 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License and Creative Commons Attribution 4.0 and The Open Definition.
 
 ---
 
