@@ -100,12 +100,6 @@ The proposed antenna improves antenna performance using a modified oloid-shaped 
 
 ---
 
-# 🧩 Block Diagram
-
-![Block Diagram](Images/block_diagram.png)
-
----
-
 # 💻 Software Used
 
 - CST Studio Suite 2025
